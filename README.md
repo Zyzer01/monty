@@ -1,5 +1,5 @@
-# monty
-# ALX group project by [David](https://github.com/zyzer01) and [Kara](https://github.com/karaeno)
+# Monty
+## ALX group project by [David](https://github.com/zyzer01) and [Kara](https://github.com/karaeno)
 
 
 # 0x18. C - Stacks, Queues - LIFO, FIFO
